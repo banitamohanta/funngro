@@ -1,4 +1,8 @@
- * {
+ /*! 
+     * style.css - Funngro main stylesheet
+     * All styles moved to separate block (as if external)
+     */
+    * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
